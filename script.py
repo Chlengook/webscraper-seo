@@ -1,3 +1,8 @@
+# Количество разработчиков - 1
+# Количество веток - 1
+# Количество копирований - 3
+# Регулярность использования - 6
+
 # gecko driver avilable from https://github.com/mozilla/geckodriver/releases/tag/v0.26.0
 
 import time
